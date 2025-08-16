@@ -4,6 +4,9 @@
 
 A modern, responsive portfolio website built with React, Tailwind CSS, and Framer Motion animations, powered by Bun.
 
+## live demo:
+[check out my portfolio here](https://my-app-topaz-six-14.vercel.app/)
+
 ## 🌟 Features
 
 - **Modern UI/UX** - Clean, responsive design with dark mode aesthetics
